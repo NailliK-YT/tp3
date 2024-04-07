@@ -50,7 +50,7 @@ public class CryptoMarche {
             }
         }
 
-        return 0;
+        return capital;
 
     }
 
