@@ -1,6 +1,6 @@
-**Nom :** Rougeolle henri
+**Nom :** Demeillers Killian
 
-**Groupe :** B1 equipe 10
+**Groupe :** B2 equipe 10
 
 **Année :** 1er
 
