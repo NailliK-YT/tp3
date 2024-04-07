@@ -1,4 +1,4 @@
-**Nom :** Demeillers Killian
+**Nom :** Demeillers Killian et Rougeolle Henri
 
 **Groupe :** B2 equipe 10
 
@@ -6,23 +6,19 @@
 
 **IUT Le Havre - Cours GIT**
 
-### Compte-rendu TP2
+### Compte-rendu TP3
 
 Dans ce TP on apprend à travailler avec git.
 
 # Mon Projet
 ## Compte rendu
 
--j'ai passer l'etape de cree un compte github car j'en avait deja un 
--puis y an pas e fichier $ cat ~/.ssh/id_rsa.pub je l'ai genere
--genere la cle avec `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
--j'ai ajouter ma clé sur github 
--j'ai cree un depot vide sur github 
--Apres j'ai lier avec la commande `/courseGIT/tp1> git remote add origin
--git@github.com:<votre_utilisateur>/tp1.git`
--Puis j'ai utiliser la commande `git push -u origin master` pour cree un lien permanent
--j'ai appris a utiliser la commande `git pull` Exercice
--j'ai modifier le Cryptomonnaie.java puis `git add`,`git commit`
--J'ai cree un depot tp2 sur github et en utilisant la commande `courseGIT> git clone git@github.com:<votre_utilisateur>/tp2.git
-`
--
+- nous avons cree un depot puis killian ma ajouter au depot
+- nous avons cloner avec la commande `git clone git@github.com:<utilisateur_de_athos>/tp3.git`
+-Henri a ajouter les fichier du tp2 dans le tp3 puis `git push` pour les mettre sur gitHub
+- Killian a recuperer grace `git pull`
+- Killian a ajouter les 3 fichier donner puis Henri les a `git pull`
+- nous avons modifier les code pour passer les test
+- Henri a cree une branch PorthosCoin et Killien AthosCoin avec `git checkout -b nomBranche`
+- puis on cree un fichier.java AthosCoin et PorthosCoin puis ajouter le code donner 
+- on a ajouter c'est fichier dans le depot github
